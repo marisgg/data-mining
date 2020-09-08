@@ -1,0 +1,4 @@
+# 2
+
+Two vectors are orthogonal if their inner product/dot product is zero. In Euclidian space, orthogonal also means perpendicular.
+The length of a vector is the square root of the inner product of itself.
