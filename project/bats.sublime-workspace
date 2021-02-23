@@ -1,0 +1,928 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"numOfComponents"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"km",
+				"km_assigned"
+			],
+			[
+				"sw",
+				"sw_assigned"
+			],
+			[
+				"x3",
+				"x3_star"
+			],
+			[
+				"x2_",
+				"x2_star"
+			],
+			[
+				"x1",
+				"x1_star"
+			],
+			[
+				"x",
+				"x_star"
+			],
+			[
+				"va",
+				"variables"
+			],
+			[
+				"T",
+				"TOPICSFILE"
+			],
+			[
+				"re",
+				"rerank"
+			],
+			[
+				"be",
+				"benchmark"
+			],
+			[
+				"format",
+				"formatstring"
+			],
+			[
+				"ro",
+				"rocchio_rerank"
+			],
+			[
+				"doc",
+				"doc_scores"
+			],
+			[
+				"document",
+				"document_at_a_time"
+			],
+			[
+				"documen",
+				"document_at_a_time"
+			],
+			[
+				"get",
+				"get_term"
+			],
+			[
+				"compu",
+				"compute_pickle"
+			],
+			[
+				"com",
+				"compute_pickle"
+			],
+			[
+				"doci",
+				"docidx_docid"
+			],
+			[
+				"notF",
+				"notFinished"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"lo",
+				"longest_doc"
+			],
+			[
+				"map",
+				"mappedList"
+			],
+			[
+				"ana",
+				"analyze_query"
+			],
+			[
+				"docu",
+				"document_at_a_time"
+			],
+			[
+				"is",
+				"is_finished"
+			],
+			[
+				"In",
+				"InvertedListItem"
+			],
+			[
+				"docid",
+				"docidx"
+			],
+			[
+				"models",
+				"models_class"
+			],
+			[
+				"compute",
+				"compute_bm25_term_weight"
+			],
+			[
+				"pos",
+				"postings"
+			],
+			[
+				"out",
+				"outjson"
+			],
+			[
+				"ret",
+				"return_set"
+			],
+			[
+				"write",
+				"write_output"
+			],
+			[
+				"ou",
+				"outfile"
+			],
+			[
+				"s",
+				"searcher"
+			],
+			[
+				"clear",
+				"clear_output"
+			],
+			[
+				"py",
+				"pytrec_dict"
+			],
+			[
+				"index",
+				"index_reader"
+			],
+			[
+				"que",
+				"query_id"
+			],
+			[
+				"df_",
+				"df_NTO_NEO"
+			],
+			[
+				"resu",
+				"resultsCSV"
+			],
+			[
+				"string",
+				"String"
+			],
+			[
+				"af",
+				"after_script"
+			],
+			[
+				"on",
+				"on_failure"
+			],
+			[
+				"y",
+				"yCube"
+			],
+			[
+				"inte",
+				"integration_epic"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"integ",
+				"integration_master"
+			],
+			[
+				"apa",
+				"apache-tomcat"
+			],
+			[
+				"XC",
+				"XC_DIR"
+			],
+			[
+				"WM_B",
+				"WM_BUILD_PORT"
+			],
+			[
+				"putStr",
+				"putStrLn ∷ String → IO ()\tSystem.IO"
+			],
+			[
+				"readIO",
+				"readIO ∷ Read a ⇒ String → IO a\tSystem.IO"
+			],
+			[
+				"IO",
+				"readIO ∷ Read a ⇒ String → IO a\tSystem.IO"
+			],
+			[
+				"to",
+				"toInteger\tGHC.Real"
+			],
+			[
+				"max",
+				"max\tGHC.Classes"
+			],
+			[
+				"min",
+				"minimum\tData.Foldable"
+			],
+			[
+				"B",
+				"Bool \tGHC.Types"
+			],
+			[
+				"Id",
+				"id ∷ a → a\tGHC.Base"
+			],
+			[
+				"Sin",
+				"Sin\tCalculus"
+			],
+			[
+				"fromIn",
+				"fromIntegral ∷ (Integral a, Num b) ⇒ a → b\tGHC.Real"
+			],
+			[
+				"False",
+				"False\tGHC.Types"
+			],
+			[
+				"end",
+				"end{enumerate}\tOpdracht6.tex"
+			],
+			[
+				"usepa",
+				"usepackage{package}\tlatex-document"
+			],
+			[
+				"Show",
+				"showShape"
+			],
+			[
+				"close_",
+				"close_socket"
+			],
+			[
+				"close",
+				"close_connection"
+			],
+			[
+				"fil",
+				"filecmp"
+			],
+			[
+				"inpu",
+				"input_file"
+			],
+			[
+				"bt",
+				"bTCP_client"
+			],
+			[
+				"bTCP",
+				"bTCP_server"
+			],
+			[
+				"check",
+				"checksum"
+			],
+			[
+				"checksu",
+				"checksum_payload"
+			],
+			[
+				"data",
+				"data_payload"
+			],
+			[
+				"test",
+				"test_payload"
+			],
+			[
+				"des",
+				"destination_port"
+			],
+			[
+				"head",
+				"header_format"
+			],
+			[
+				"de",
+				"destination_port"
+			],
+			[
+				"den",
+				"destination_ip"
+			],
+			[
+				"gethost",
+				"gethostbyname"
+			],
+			[
+				"sen",
+				"send_echo_request_with_ttl"
+			],
+			[
+				"solu",
+				"solutions"
+			],
+			[
+				"resp",
+				"respmodels"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 1736,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "#!/usr/bin/env python3"
+			}
+		},
+		{
+			"file": "bat.py",
+			"settings":
+			{
+				"buffer_size": 51,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "class Bat:"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Haskell/Haskell.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Configure"
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Rebuild"
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Test"
+				]
+			],
+			[
+				"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"folder",
+				"Project: Refresh Folders"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"settings",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"stack",
+				"Package Control: List Packages"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeHaskell - Settings"
+			],
+			[
+				"sublimeh",
+				"SublimeHaskell: Configure"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 683.0,
+		"history":
+		[
+			"help",
+			"--help",
+			"-v",
+			"def func():",
+			":l BinaryTree.hs",
+			":l BinaryTree",
+			"print(a)",
+			"a = \"hoi\"",
+			"print(a)",
+			"ghci",
+			"git status"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/maris/OneDrive/Documenten/GitHub/data-mining/project"
+	],
+	"file_history":
+	[
+		"/C/Users/maris/OneDrive/Documenten/GitHub/natural_computing/2_2.py",
+		"//wsl$/Ubuntu/home/maris/git/clean/IR-2020/README.md",
+		"//wsl$/Ubuntu/home/maris/git/clean/IR-2020/.gitignore",
+		"//wsl$/Ubuntu/home/maris/git/clean/IR-2020/models.py",
+		"//wsl$/Ubuntu/home/maris/git/clean/IR-2020/trec_main.py",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/bayes-nets-IST/causal-cmd/parseResult.py",
+		"//wsl$/Ubuntu/home/maris/git/IR-2020/input/qrels-covid_d5_j0.5-5.txt",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/natural_computing/2_1.py",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/IR-2020/preprocess_data_optimized.py",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/IR-2020/collection.py",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/data-mining/5/toolbox/load_movie_names.py",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/data-mining/5/toolbox/apriorimining.py",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/django-webapp/manage.py",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/IR-2020/main.py",
+		"/M/Producer/Reason/Reason Files Gathering/zuur.rns",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/scriptie/Example.bytecode",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/scriptie/taintralib/TaintRALib/equivalenceOracle.log",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/scriptie/taintralib/equivalenceOracle.log",
+		"/C/Users/maris/OneDrive/Documenten/LAPTOP-C8MGOHMG.txt",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/gedichten/haiku's/7haikus.md",
+		"/C/GX/webmanager-qa/Scripts/servehttpnocache.py",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/scriptie/taintralib/test.sh",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/scriptie/jconstraints/README.md",
+		"/C/GX/webmanager-qa/Scripts/tmp.java",
+		"/C/GX/webmanager-qa/Test_Automation/Continuous_Testing/xcrunner/bin/conf.sh",
+		"/C/Users/maris/OneDrive/Documenten/GitHub/scriptie/taintralib/Dockerfile",
+		"/C/GX/webmanager-qa/Test_Automation/Continuous_Testing/xcrunner/bin/xcr.sh",
+		"/C/GX/webmanager/webmanager-wcbs/webmanager-integrationtest-wcb/pom.xml",
+		"/C/Users/maris/Desktop/programmeerzooi/New folder/sudoku.py",
+		"/C/GX/webmanager-qa/Test_Automation/Driver_Automation/updateDrivers.py",
+		"/C/Torpe/scriptie.sh",
+		"/C/GX/webmanager/src/main/config/tomcat/bin/setenv.sh",
+		"/C/Users/maris/OneDrive/Documenten/Save_0055 - Copy.xbsav",
+		"/C/Users/maris/Desktop/programmeerzooi/sudoku.py",
+		"/C/GX/webmanager/docker/polll.sh",
+		"/C/GX/webmanager/docker/poll.sh",
+		"/C/Users/maris/AppData/Local/Temp/GGTries.ps.gz",
+		"/C/Users/maris/Desktop/Github/FP/fp1",
+		"/C/Users/maris/AppData/Local/Temp/Week10.hs",
+		"/C/Users/maris/Desktop/FP/8/Satellite.hs",
+		"/C/Users/maris/Desktop/FP/8/Chain.hs",
+		"/C/Users/maris/Desktop/FP/8/Huffman.hs",
+		"/C/Users/maris/Desktop/FP/7/BinaryTree.hs",
+		"/C/Users/maris/AppData/Local/Temp/tutorial7pub.lhs",
+		"/C/Users/maris/Desktop/FP/7/Text.hs",
+		"/C/Users/maris/Desktop/programmeerzooi/fpfunc.hs",
+		"/C/Users/maris/AppData/Local/Temp/Text.hs",
+		"/C/Users/maris/Desktop/FP/6/tutorial6.lhs",
+		"/C/Users/maris/Desktop/FP/6/DigitalSorting.hs",
+		"/C/Users/maris/Desktop/FP/3/DNA.hs",
+		"/C/Users/maris/Downloads/tutorial6.lhs",
+		"/C/Users/maris/Desktop/FP/5/SKI.hs",
+		"/C/Users/maris/Desktop/FP/5/Parser.hs",
+		"/C/Users/maris/Desktop/FP/5/Numeral.hs",
+		"/C/Users/maris/Desktop/FP/5/Lambda.hs",
+		"/C/Users/maris/Desktop/FP/5/Hardware.hs",
+		"/C/Users/maris/Desktop/FP/5/Expression.hs",
+		"/C/Users/maris/Desktop/FP/5/Unfold.hs",
+		"/C/Users/maris/Desktop/FP/3/Roman.hs",
+		"/C/Users/maris/Desktop/FP/4/QuickTest.hs",
+		"/C/Users/maris/Desktop/FP/4/Calculus.hs",
+		"/C/Users/maris/Desktop/FP/4/BinaryTree.hs",
+		"/C/Users/maris/Desktop/FP/4/BinarySearchTree.hs",
+		"/C/Users/maris/Dropbox/UNIBOYS/.Year 4/FP1slash2/1/Shapes.lhs",
+		"/C/Users/maris/Desktop/FP/2/Char.hs",
+		"/C/Users/maris/Desktop/FP/1/Shapes.hs",
+		"/C/Users/maris/Desktop/FP/3/QuickTest.hs",
+		"/C/Users/maris/Desktop/FP/1/Triangle.hs",
+		"/C/Users/maris/Dropbox/UNIBOYS/Academisch Zwalken/Opdracht7.tex",
+		"/C/Users/maris/Dropbox/UNIBOYS/Academisch Zwalken/Opdracht6.tex",
+		"/C/Users/maris/Downloads/Unicode.lhs",
+		"/C/Users/maris/Dropbox/UNIBOYS/Academisch Zwalken/Opdracht4.tex",
+		"/C/Users/maris/Dropbox/UNIBOYS/Academisch Zwalken/Opdracht1-2-3.tex",
+		"/C/Users/maris/Desktop/FP/1/newyear.hs",
+		"/C/Users/maris/Desktop/FP/1/Stringnum.hs",
+		"/C/Users/maris/Desktop/FP/1/Strings.hs",
+		"/C/Users/maris/Desktop/FP/1/Time.hs",
+		"/C/Users/maris/Desktop/FP/1/Database.hs",
+		"/C/Users/maris/Dropbox/UNIBOYS/Reflectie & Beroepsonzin/New Student/s4634098_reflectie_na_jaar_3 - kopie.tex",
+		"/C/Users/maris/Dropbox/UNIBOYS/Combinatoriek/A1_Combinatorics_MarisGalesloot_s4634098.tex",
+		"/C/Users/maris/Desktop/sublime test.tex",
+		"/C/Users/maris/Dropbox/UNIBOYS/Netwerk/06/calc.txt",
+		"/C/Users/maris/Dropbox/UNIBOYS/Netwerk/N&DS 2019.txt",
+		"/C/Users/maris/Desktop/sublime test.py",
+		"/C/Users/maris/Desktop/sublime test.log",
+		"/C/Users/maris/Desktop/nads-project-1-btcp/testframework.py",
+		"/C/Users/maris/Desktop/nads-project-1-btcp/states.py",
+		"/C/Users/maris/Desktop/nads-project-1-btcp/header.py",
+		"/C/Users/maris/Desktop/nads-project-1-btcp/bTCP_server.py",
+		"/C/Users/maris/Desktop/nads-project-1-btcp/bTCP_client.py",
+		"/C/Users/maris/Desktop/nads-project-1-btcp/tests/testframework.py",
+		"/C/Users/maris/Dropbox/Informatica 2015/Netwerken en gedistributeerde Systemen/TCP project/TCPClient.py",
+		"/C/Users/maris/Dropbox/UNIBOYS/NetSeq/17-18/netsec-assignment1-s4634098/Exercise4/sniffer.py",
+		"/C/Users/maris/Dropbox/UNIBOYS/NetSeq/17-18/netsec-assignment1-s4634098/Exercise3/sniffer.py",
+		"/C/Users/maris/Dropbox/UNIBOYS/Netwerk/nads-project-1-btcp/testframework.py",
+		"/C/Users/maris/Dropbox/UNIBOYS/Netwerk/nads-project-1-btcp/bTCP_client.py",
+		"/C/Users/maris/Dropbox/UNIBOYS/Netwerk/nads-project-1-btcp/bTCP_server.py",
+		"/C/Users/maris/Dropbox/UNIBOYS/Filosofie Middeleeuwen/03/Boëthius.txt",
+		"/C/Users/maris/Dropbox/UNIBOYS/Filosofie Middeleeuwen/02/Augustinus.txt",
+		"/C/Users/maris/Dropbox/UNIBOYS/Netwerk/'19/02/traceroute.py",
+		"/C/Users/maris/Dropbox/UNIBOYS/Combinatoriek/ff halen maat.txt",
+		"/C/Users/maris/Dropbox/UNIBOYS/S&C/Semantiek & Correctheid Notes.txt",
+		"/C/Users/maris/Dropbox/Informatica 2015/Netwerken en gedistributeerde Systemen/Assignment2/traceroute.py",
+		"/C/Users/maris/Dropbox/Informatica 2015/Netwerken en gedistributeerde Systemen/Assignment2/s4629388/traceroute.py",
+		"/C/Users/maris/Dropbox/Informatica 2015/Netwerken en gedistributeerde Systemen/2015-2016/IcmpTraceroute.py",
+		"/C/Users/maris/Dropbox/UNIBOYS/Filosofie Middeleeuwen/Augustinus.txt",
+		"/C/Users/maris/Dropbox/UNIBOYS/S&C/exam2017",
+		"/C/Users/maris/Desktop/programmeerzooi/count.cpp",
+		"/C/Users/maris/Dropbox/UNIBOYS/OSS/OSS Notes.txt",
+		"/C/Users/maris/Desktop/gen.py",
+		"/C/Users/maris/Desktop/project4.py",
+		"/C/Users/maris/Desktop/probeer.py",
+		"/C/Users/maris/Desktop/runall.py",
+		"/C/Users/maris/Desktop/python.py",
+		"/C/Users/maris/Desktop/python123.py",
+		"/C/Users/maris/Desktop/ad.py",
+		"/C/Users/maris/Desktop/subsetsum.cpp",
+		"/C/Users/maris/Dropbox/UNIBOYS/Algoritmen & Datstructuren/P1/project.py",
+		"/C/Users/maris/Desktop/project.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!/usr/bin/env python3",
+							"rainbow_checked": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bat.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Bat:",
+							"rainbow_checked": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.autopep8":
+	{
+		"height": 109.0
+	},
+	"output.exec":
+	{
+		"height": 197.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 34.0
+	},
+	"output.markdown":
+	{
+		"height": 139.0
+	},
+	"output.sublime_haskell_output_panel":
+	{
+		"height": 330.0
+	},
+	"pinned_build_system": "Packages/MarkdownPreview/Markdown.sublime-build",
+	"project": "bats.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
